@@ -44,6 +44,7 @@ brotli
 btrfs-progs
 bubblewrap
 bzip2
+c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -582,7 +583,11 @@ netpbm
 nettle
 networkmanager
 nm-connection-editor
+node-gyp
+nodejs
+nodejs-nopt
 noto-fonts-emoji
+npm
 npth
 nspr
 nss
@@ -700,6 +705,7 @@ sdl2
 sdl2_image
 seabios
 sed
+semver
 serd
 shadow
 shared-color-targets

@@ -3,8 +3,9 @@ chrome-gnome-shell
 cmake-extras
 libayatana-appindicator
 libayatana-indicator
+nodejs-nativefier
 rancher-k3d-bin
 teamviewer
 warsaw-bin
-whatsapp-for-linux
+whatsapp-nativefier
 yay
